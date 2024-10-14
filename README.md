@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-The *Employee Skill Tracking Platform* is a comprehensive web application designed to facilitate employee learning and development within organizations. It also enables administrators to manage user registrations, events, and analytics effectively.
+The *Employee Skill Tracking Platform* is a comprehensive web application designed to facilitate employee skill and competency tracking within organizations. It also enables administrators to manage user registrations, events, and analytics effectively.
 
 ## Technologies Used
 
