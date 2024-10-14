@@ -1,13 +1,5 @@
 # Employee Skill Tracking Platform 📊
 
-## Table of Contents 📌
-
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Data Engineering](#data-engineering)
-- [Data Science](#data-science)
-
 ## Project Overview 🌐
 
 The *Employee Skill Tracking Platform* is a comprehensive web application designed to facilitate employee skill and competency tracking within organizations. It also enables administrators to manage user registrations, events, and analytics effectively.
